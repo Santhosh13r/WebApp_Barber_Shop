@@ -12,7 +12,7 @@ const BillFrom = () => {
               <div className="card-body">
                 <div className="from">
                      <form>
-                       <label htmlFor=""></label>
+                      
                      </form>
                 </div>
               </div>
