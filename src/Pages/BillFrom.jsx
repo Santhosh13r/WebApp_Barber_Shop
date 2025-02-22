@@ -12,7 +12,9 @@ const BillFrom = () => {
               <div className="card-body">
                 <div className="from">
                      <form>
-                      
+                        <label htmlFor="">Number</label>
+                        <input type="text" placeholder='enter your number' className='form-control' required  />
+                        <button type="button">Submit</button>
                      </form>
                 </div>
               </div>
